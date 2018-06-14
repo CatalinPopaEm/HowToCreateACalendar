@@ -1,0 +1,2 @@
+$ cal 5 2018 | awk 'NF {DAYS = $NF}; END {print DAYS}' = afiseaza numarul de zile dintr-o luna
+
