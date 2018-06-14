@@ -41,3 +41,4 @@ catalin@catalin-Lenovo-Z580:~/calendar/anul/2018/iunie$ cal > june
 catalin@catalin-Lenovo-Z580:~/calendar/anul/2018/iunie$ cd ..
 catalin@catalin-Lenovo-Z580:~/calendar/anul/2018$ rm june
 catalin@catalin-Lenovo-Z580:~/calendar/anul/2018$ 
+
